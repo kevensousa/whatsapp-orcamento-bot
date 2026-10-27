@@ -1,0 +1,18 @@
+# Ambientes e perfis do navegador (contém sessões e cookies do WhatsApp)
+perfil_*/
+perfil_whatsapp/
+
+# Dados privados (telefones de terceiros e relatórios reais)
+relatorio_envios.xlsx
+contatos.xlsx
+contatos.csv
+mensagem.txt
+
+# Python cache e arquivos temporários
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+.vscode/
+.idea/
